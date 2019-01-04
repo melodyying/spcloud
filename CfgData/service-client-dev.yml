@@ -7,4 +7,4 @@ server:
 spring:
   application:
     name: service-client
-hello: get hello from client
+hello: test get hi from client
